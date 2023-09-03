@@ -1,9 +1,9 @@
-# Portafolio de Análisis
+# Portafolio de Implementación
 ### Adrián Emmanuel Faz Mercado - A01570770
 
 Inteligencia Artificial Avanzada para la Ciencia de Datos I
 
-En este repositorio se encuentran las actividades pertenecientes al portafolio de análisis del bloque TC3006B.
+En este repositorio se encuentran las actividades pertenecientes al portafolio de implementación del bloque TC3006B.
 
 ## Estructura
 El repositorio contiene las siguientes carpetas:
