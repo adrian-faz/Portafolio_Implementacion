@@ -8,6 +8,6 @@ Esta carpeta contiene las siguientes carpetas y archivos:
 * ### **Archivos**
   * **README.md** Este archivo, el cual describe el contenido de la carpeta "M2_ML".
 * ### **Carpetas**
-  * **MR_Normatividad:** Archivos pertenecientes a la actividad de "Análisis del Contexto y de la Normatividad"
-  * **MR_Reporte:** Archivos pertenecientes a la actividad de: "Análisis y Reporte sobre el desempeño del modelo."
+  * **MR_NoFramework:** Archivos pertenecientes a la actividad de "Implementación de una técnica de aprendizaje máquina sin el uso de un framework"
+  * **MR_Framework:** Archivos pertenecientes a la actividad de: "Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución"
 
