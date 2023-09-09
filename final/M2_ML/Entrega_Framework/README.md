@@ -2,7 +2,7 @@
 
 En esta actividad, se utiliza el framework de scikit-learn para implementar una solución utilizando uno de los modelos vistos en clase. 
 Esta carpeta contiene los archivos solicitados para completar la actividad, está compuesta por:
-* **Desempeño_Modelo.ipynb**: Notebook donde se encuentra el código realizado y la implementación del modelo, además de las explicaciones pertinentes.
+* **Actividad_Framework.ipynb**: Notebook donde se encuentra el código realizado y la implementación del modelo, además de las explicaciones pertinentes.
 * **iris.csv**: Archivo donde se encuentran los datos del set de datos utilizado en la actividad en formato csv.
 
 ## Set de Datos 
@@ -17,7 +17,7 @@ El set de datos utilizado se llama "iris.csv", y este incluye 150 muestras de fl
 
 En donde, buscamos predecir la especie a la que pertenece cada muestra en base a las otras características que tenemos como "datos de entrada".
 
-El set de datos se puede encontrar en: https://github.com/adrian-faz/EntregasIndividuales_AdrianFaz/tree/main/retro/M2_ML/Act2/iris.csv
+El set de datos se puede encontrar en: https://github.com/adrian-faz/Portafolio_Implementacion/blob/main/final/M2_ML/Entrega_Framework/iris.csv
 
 ## Problema
 
@@ -34,7 +34,7 @@ Las competencias e indicadores a evaluar en esta entrega son las siguientes:
       * Usa un marco de trabajo o framework para implementar una técnica o algoritmo de aprendizaje máquina como: regresiones, árboles, clusters, etc...
        
    * Archivo donde se evalúa:
-      * Desempeño_Modelo.ipynb
+      * Actividad_Framework.ipynb
 
 
 
