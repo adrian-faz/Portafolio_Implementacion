@@ -27,10 +27,14 @@ El modelo a utilizar fue el **Decision Tree Classifier**, el cual es un algoritm
 
 ## Subcompetencias y archivos a revisar
 
-Las competencias a evaluar en esta entrega son las siguientes:
+Las competencias e indicadores a evaluar en esta entrega son las siguientes:
 
-* **SMA0401A** 
-   * Usa un marco de trabajo o framework para implementar una técnica o algoritmo de aprendizaje máquina como: regresiones, árboles, clusters, etc...
+* **SMA0401A**
+  * Indicadores:
+     * Usa un marco de trabajo o framework para implementar una técnica o algoritmo de aprendizaje máquina como: regresiones, árboles, clusters, etc...
+       
+  * Archivo donde se evalúa:
+     * *Desempeño_Modelo.ipynb*
 
 
 
