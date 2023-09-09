@@ -29,7 +29,7 @@ El modelo a utilizar fue el **Decision Tree Classifier**, el cual es un algoritm
 
 Las competencias e indicadores a evaluar en esta entrega son las siguientes:
 
-* **SMA0401A**
+1. **SMA0401A**
   * Indicadores:
      * Usa un marco de trabajo o framework para implementar una técnica o algoritmo de aprendizaje máquina como: regresiones, árboles, clusters, etc...
        
