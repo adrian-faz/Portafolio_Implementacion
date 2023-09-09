@@ -30,4 +30,9 @@ El modelo a utilizar fue el **Decision Tree Classifier**, el cual es un algoritm
 Para evaluar las subcompetencias, se debe de revisar el siguiente archivo:
 * *Desempeño_Modelo.ipynb*
 
+## Cambios implementados
+
+A continuación se enlistan los puntos que no recibieron marcas en la rúbrica de retroalimentación y lo que se hizo para resolverlo:
+
+1. "*El readme indica cuáles son los archivos que deberán revisarse para evaluar los indicadores de las subcompetencias*": 
 
