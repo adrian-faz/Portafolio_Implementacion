@@ -7,17 +7,14 @@ Esta carpeta contiene los archivos solicitados para completar la actividad, est�
 
 ## Set de Datos 
 
-El set de datos utilizado se llama "iris.csv", y este incluye 150 muestras de flores, las cuales están clasificadas en 3 clases distintas. Cada muestra tiene las siguientes características:
+El set de datos utilizado se llama "plants_sunlight_data", y este incluye 100 muestras de plantas, y el set de datos refleja la cantidad de horas promedio al día que estaba expuesta la planta al sol y una columna que indica si la planta sobrevivió después de un mes o no. Los nombres de las columnas del set de datos son los siguientes:
 
-* sepal_length
-* sepal_width
-* petal_length
-* petal_width
-* species
+* Hours_of_sunlight
+* Survived
 
-En donde, buscamos predecir la especie a la que pertenece cada muestra en base a las otras características que tenemos como "datos de entrada".
+Con este set de datos, se busca entrenar un modelo de manera manual que sea capaz de predecir si una planta sobrevivirá después de un mes, en base a la cantidad de horas promedio que está expuesta al sol. 
 
-El set de datos se puede encontrar en: https://github.com/adrian-faz/EntregasIndividuales_AdrianFaz/tree/main/retro/M2_ML/Act2/iris.csv
+Este set de datos se puede encontrar en: https://github.com/adrian-faz/EntregasIndividuales_AdrianFaz/tree/main/retro/M2_ML/Act2/iris.csv
 
 ## Problema
 
