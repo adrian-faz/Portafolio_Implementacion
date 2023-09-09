@@ -34,5 +34,6 @@ Para evaluar las subcompetencias, se debe de revisar el siguiente archivo:
 
 A continuación se enlistan los puntos que no recibieron marcas en la rúbrica de retroalimentación y lo que se hizo para resolverlo:
 
-1. "*El readme indica cuáles son los archivos que deberán revisarse para evaluar los indicadores de las subcompetencias*": 
+1. "**El readme indica cuáles son los archivos que deberán revisarse para evaluar los indicadores de las subcompetencias**":
+    * Se agregó una sección nueva en el readme con las subcompetencias a evaluar en esta actividad y los archivos en donde se pueden revisar.
 
