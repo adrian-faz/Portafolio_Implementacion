@@ -34,7 +34,7 @@ Las competencias e indicadores a evaluar en esta entrega son las siguientes:
      * Usa un marco de trabajo o framework para implementar una técnica o algoritmo de aprendizaje máquina como: regresiones, árboles, clusters, etc...
        
   * Archivo donde se evalúa:
-     * *Desempeño_Modelo.ipynb*
+     * Desempeño_Modelo.ipynb
 
 
 
