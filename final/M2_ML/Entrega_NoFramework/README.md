@@ -48,6 +48,9 @@ A continuación se enlistan los puntos que no recibieron marcas en la rúbrica d
 4. **El readme contiene una descripción breve de la estructura del repositorio (qué es cada archivo/carpeta)**
     * Al inicio del readme, se agregó la estructura de esta parte del repositorio, en donde se incluyen los archivos que lo componen y la explicación de qué es cada archivo.
 5. **El readme indica cuáles son los archivos que deberán revisarse para evaluar los indicadores de las subcompetencias**
-    * Se agregó la sección de "Subcompetencias y archivos a revisar", en donde se especifica el/los archivos a revisar para evaluar los indicadores de la subcompetencia(s) involucrada en la actividad. 
+    * Se agregó la sección de "Subcompetencias y archivos a revisar", en donde se especifica el/los archivos a revisar para evaluar los indicadores de la subcompetencia(s) involucrada en la actividad.
+6. **El readme contiene una sección de cambios implementados, donde se mencione el cambio indicado por el docente y lo que se hizo para resolverlo (solo aplica para entrega final)**
+    * Se agregó la sección de "Cambios implementados", donde se indican específicamente las partes que fallaron en la primera entrega, y se explica de qué manera se resolvieron. Es esta sección.
+
 
 
