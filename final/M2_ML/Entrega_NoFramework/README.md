@@ -51,6 +51,22 @@ A continuación se enlistan los puntos que no recibieron marcas en la rúbrica d
     * Se agregó la sección de "Subcompetencias y archivos a revisar", en donde se especifica el/los archivos a revisar para evaluar los indicadores de la subcompetencia(s) involucrada en la actividad.
 6. **El readme contiene una sección de cambios implementados, donde se mencione el cambio indicado por el docente y lo que se hizo para resolverlo (solo aplica para entrega final)**
     * Se agregó la sección de "Cambios implementados", donde se indican específicamente las partes que fallaron en la primera entrega, y se explica de qué manera se resolvieron. Es esta sección.
+7. **El reporte incluye el nombre del dataset utilizado**
+    * En el notebook/reporte ahora se incluye el nombre del set de datos utilizado: "plants_sunlight_data.csv".
+8. **El reporte incluye un enlace al lugar donde se puede encontrar el dataset utilizado**
+    * En el notebook/reporte se agregó la liga a la ubicación del set de datos que se utilizó.
+9. **El reporte incluye una descripción breve de los datos incluidos en el dataset (cantidad de registros/muestras, número de características, número de clases de salida o rango de valores de salida)**
+    * En el notebook/reporte, se agregó una descripción de los datos que se utilizaron, incluyendo cuántas muestras tiene, las columnas del set y las posibles salidas.
+10. **El reporte incluye una descripción de las métricas de desempeño para el subconjunto de entrenamiento**
+    * En el reporte/notebook, ahora se agregó una sección llamada "Métricas de desempeño", en donde se definen las métricas a utilizar (accuracy y precision) en el subset de datos de entrenamiento, se explica cómo funciona cada una y se muestra su fórmula para calcularlas.
+11. **El reporte incluye una descripción de las métricas de desempeño para el subconjunto de prueba**
+    * En el reporte/notebook, ahora se agregó una sección llamada "Métricas de desempeño", en donde se definen las métricas a utilizar (accuracy y precision) en el subset de datos de prueba, se explica cómo funciona cada una y se muestra su fórmula para calcularlas.
+12. **El reporte incluye una comparación entre las predicciones generadas y los valores que debieron obtenerse**
+    * Se agregó una sección de "Comparación entre predicciones generadas y valores reales", y ahí se toman 5 datos aleatorios del set de prueba y se predicen los resultados con el modelo, luego, se muestra una pequeña tabla comparando los valores reales y las predicciones obtenidas por el modelo. 
+
+
+
+
 
 
 
